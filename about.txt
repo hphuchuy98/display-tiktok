@@ -1,0 +1,8 @@
+display app-tiktok React (Thiet ke 1 phan giao dien tiktok)
+use (cac framework duoc su dung): 
+ + React
+ + Tailwind
+
+Co nhung chu nang:
+ + Xem Video
+ + Chuc nang "Snap CSS" giup tu xem video khong can keo het

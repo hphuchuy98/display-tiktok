@@ -6,3 +6,5 @@ use (cac framework duoc su dung):
 Co nhung chu nang:
  + Xem Video
  + Chuc nang "Snap CSS" giup tu xem video khong can keo het
+ 
+ Phat trien them sai firebase
